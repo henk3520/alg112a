@@ -14,3 +14,4 @@ int main() {
 
     return 0;
 }
+//參考chatgpt並修改
