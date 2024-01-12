@@ -14,3 +14,4 @@ def newton_solver(initial_guess, max_iterations=100, epsilon=0.0001):
 
 initial_guess = 0.0
 newton_solver(initial_guess)
+//參考chatgpt並修改
