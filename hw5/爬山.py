@@ -29,3 +29,4 @@ initial_point = [2, 1, 3]
 # 執行爬山演算法
 result = hillClimbing(f, initial_point)
 print("最大值所在位置:", result[0], "最大值:", result[1])
+//參考chatgpt並修改
