@@ -18,3 +18,4 @@ if solutions:
     print("解為：", solutions)
 else:
     print("未找到解")
+//參考chatgpt並修改
