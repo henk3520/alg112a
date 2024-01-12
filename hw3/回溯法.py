@@ -20,3 +20,4 @@ def all_permutations(s):
 
 input_string = "12345"
 all_permutations(input_string)
+//參考chatgpt並修改
